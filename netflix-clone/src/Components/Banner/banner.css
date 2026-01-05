@@ -2,8 +2,8 @@
   position: relative;
   color: white;
   height: 80vh;
-  margin-top: -10vh;
-  margin-bottom: -88px;
+  margin-top: 0;
+  margin-bottom: 0;
   object-fit: contain;
 }
 .banner_contents {
